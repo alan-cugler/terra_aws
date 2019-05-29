@@ -1,0 +1,4 @@
+# Searching for AMIs in cli
+aws ec2 describe-images --owners self amazon
+
+#
